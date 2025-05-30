@@ -1,0 +1,10 @@
+version: '3'
+services:
+  libretv:
+    image: bestzwei/libretv:latest
+    container_name: libretv
+    ports:
+      - "8899:80"
+    environment:
+      - PASSWORD=111111
+    restart: unless-stopped
