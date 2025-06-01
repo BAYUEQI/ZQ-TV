@@ -17,17 +17,6 @@ LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供
   <img src="https://github.com/user-attachments/assets/df485345-e83b-4564-adf7-0680be92d3c7" alt="项目截图" style="max-width:600px">
 </details>
 
-## 🥇 感谢赞助
-
-- **[YXVM](https://yxvm.com)**  
-- **[VTEXS](https://vtexs.com)**
-
-## 🚀 快速部署
-
-选择以下任一平台，点击一键部署按钮，即可快速创建自己的 LibreTV 实例：
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLibreSpark%2FLibreTV) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LibreSpark/LibreTV)
-
 ## 📋 详细部署指南
 
 ### Cloudflare Pages
